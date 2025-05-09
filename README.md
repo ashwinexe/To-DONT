@@ -1,4 +1,4 @@
-[](/todont%20logo%201.png)
+![](/todont%20logo%201.png)
 
 ### Made with React + Vite
 
