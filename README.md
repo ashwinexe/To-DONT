@@ -1,4 +1,4 @@
-![](/todont%20logo%201.png)
+<img src="todont%20logo%201.png" alt="To-DONT Poster" width="200"/>
 
 ### Made with React + Vite
 
